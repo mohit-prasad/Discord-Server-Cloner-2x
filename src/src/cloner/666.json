@@ -1,1 +1,2006 @@
-
+{
+    "name": "🔸S-O-U-P-♡",
+    "verificationLevel": "MEDIUM",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": ". 🍂﹒gateway ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤎﹒annc﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒gateway ?",
+                        "topic": "For important announcements🫶🏻",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2112"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "412317305920",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Founderz !! ♡",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤎﹒perks﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒gateway ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "533381695569"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤎﹒ticket﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒gateway ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "❄️",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". 🍂﹒Desk ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤍﹒hex﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Desk ?",
+                        "topic": "Choose What Roles You Want To Have Here.🤍",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "533381695569"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤍﹒gwys﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Desk ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2112"
+                            },
+                            {
+                                "roleName": "Falcon™",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Founderz !! ♡",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤍﹒richiez﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Desk ?",
+                        "topic": "Boost Us 🫶🏻",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "Mimu",
+                                "allow": "18432",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "ZeroTwo",
+                                "allow": "535529258065",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤍﹒event﹒˚₊𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Desk ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Founderz !! ♡",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2112"
+                            },
+                            {
+                                "roleName": "Falcon™",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". 🍂﹒texting ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💌﹒chat﹒𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒texting ?",
+                        "topic": "Vanity - https://discord.gg/soupy 🫶🏻",
+                        "permissions": [
+                            {
+                                "roleName": ". img door",
+                                "allow": "32768",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". gif door",
+                                "allow": "16384",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mimu",
+                                "allow": "19456",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Officialz !! ♡",
+                                "allow": "64",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "- ° Richiezz !! ♡",
+                                "allow": "49216",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "☁️",
+                                "allow": "49152",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "19327402048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🧋﹒media﹒𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": ". 🍂﹒texting ?",
+                        "topic": "sirf mushayre ke liye",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "35840",
+                                "deny": "2147483648"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Founderz !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎫﹒cmnds﹒𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 10,
+                        "parent": ". 🍂﹒texting ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "183360",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2147486720",
+                                "deny": "49152"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝﹒reality✓﹒𓂃﹗",
+                        "nsfw": false,
+                        "rateLimitPerUser": 15,
+                        "parent": ". 🍂﹒texting ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3136",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "2112",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". 🍂﹒staff ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "- ° Staffzzz !! ♡",
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤍﹒staff-anc﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒staff ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Staffzzz !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Mii-Chans !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". 🍸﹒vc ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂 . create your vc ?",
+                        "bitrate": 384000,
+                        "userLimit": 0,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥂﹒interface﹒୨",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍸﹒vc ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": ".        owners        .",
+                        "bitrate": 63813,
+                        "userLimit": 0,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": "- ° Jadu Tone Wali !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "512",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "Craig",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Nawaabzz !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂﹒Homiez Vc .",
+                        "bitrate": 63813,
+                        "userLimit": 12,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1050624"
+                            },
+                            {
+                                "roleName": "- ° The Beautyz !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Richiezz !! ♡",
+                                "allow": "3146752",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Officialz !! ♡",
+                                "allow": "3146752",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Staffzzz !! ♡",
+                                "allow": "3146752",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂﹒Samajik Vc .",
+                        "bitrate": 8000,
+                        "userLimit": 0,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "3145728"
+                            },
+                            {
+                                "roleName": "- ° Fam.ily !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Too Much Fr !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂﹒Me and You﹒",
+                        "bitrate": 384000,
+                        "userLimit": 2,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": "❄️",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂﹒2 Dooni Char .",
+                        "bitrate": 384000,
+                        "userLimit": 4,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂﹒Mahila Mandal﹒",
+                        "bitrate": 184250,
+                        "userLimit": 6,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1050624"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Kanyaz Fr !! ♡",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "❄️",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂﹒Staff Vc﹒",
+                        "bitrate": 8000,
+                        "userLimit": 99,
+                        "parent": ". 🍸﹒vc ?",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Staffzzz !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1051648"
+                            },
+                            {
+                                "roleName": "- ° Officialz !! ♡",
+                                "allow": "1048576",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". vc door",
+                                "allow": "3145728",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ". 🍸﹒music ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂・Music Vc ¹",
+                        "bitrate": 66750,
+                        "userLimit": 0,
+                        "parent": ". 🍸﹒music ?",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "549757913600"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "2097152",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥂﹒music﹒cmds",
+                        "nsfw": false,
+                        "rateLimitPerUser": 5,
+                        "parent": ". 🍸﹒music ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "OwO",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "32768"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂・Music Vc ²",
+                        "bitrate": 8000,
+                        "userLimit": 0,
+                        "parent": ". 🍸﹒music ?",
+                        "permissions": [
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "2097152",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "549757913600"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🥂・Music Vc ³",
+                        "bitrate": 384000,
+                        "userLimit": 0,
+                        "parent": ". 🍸﹒music ?",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "2097152",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "549757913600"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ". 🍂﹒Games ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💰﹒owo﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Games ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Not Quite Nitro",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "32768"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "OwO",
+                                "allow": "535529258065",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🍃﹒t-or-d﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Games ?",
+                        "topic": "Truth Or Dare?",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957138432"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "Truth or Dare",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "3072"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🧃﹒naruto﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Games ?",
+                        "topic": "type **n start** to begin ur ninja journey!",
+                        "permissions": [
+                            {
+                                "roleName": "Naruto Botto",
+                                "allow": "535529258064",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "3072"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "380104654848"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🦩﹒poketwo﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Games ?",
+                        "topic": "****See below information on how to get started and how to play/catch pokemon.****\n\n\n*Random Pokemon will spawn in this channel and you will then have a chance to catch them! Normal conversation in any of the channels go towards spawning pokemon.\nSpamming by a single person does not make Pokemon appear.*\n\nTag Pokemon Bot and type **start** to get started and have the chance to catch pokemon\n\nTag Pokemon Bot and type **pick (starter name)**- to select a starter (gen 1 thru 7)\n\nNow you ready to go! Whenever a pokemon appears type -\n\nTag Pokemon and type **catch (pokemon name)**- the first to correctly enter this gets the pokemon\n\nTag Pokemon Bot and type **hint** will offer a hint at the name.",
+                        "permissions": [
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Pokétwo",
+                                "allow": "414464859200",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "3072",
+                                "deny": "380104654848"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". 🍂﹒lmao ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥤﹒pfps﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒lmao ?",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "- ° BhaiJaanz !! ♡",
+                                "allow": "2048",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥤﹒bumpus﹒༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒lmao ?",
+                        "topic": "use /bump 🫶🏻",
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2147484672",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". 🍂﹒Logs ?",
+                "permissions": [
+                    {
+                        "roleName": ". quarantine",
+                        "allow": "0",
+                        "deny": "377957125121"
+                    },
+                    {
+                        "roleName": "- ° Too Much Fr !! ♡",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "- ° Ownership !! ♡",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1025"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・srvr-mngmnt・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "- ° Botz !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・carl-logs・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "262144",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・mod-logs・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "262144",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・flantic-logs・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Too Much Fr !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・dyno-logs・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・ticket-logs・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Too Much Fr !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". ticket team",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1025"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・joleave-logs・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・astro-errors・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Too Much Fr !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・comm-updates・༉࿐",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🪐・bhai-jaans・༉࿐",
+                        "nsfw": true,
+                        "rateLimitPerUser": 0,
+                        "parent": ". 🍂﹒Logs ?",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": ". quarantine",
+                                "allow": "0",
+                                "deny": "377957125121"
+                            },
+                            {
+                                "roleName": "- ° Ownerz !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "- ° Ownership !! ♡",
+                                "allow": "3072",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_TEXT",
+                "name": "🤍﹒soup﹒˚₊𓂃﹗",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": "A small introduction to your new hangout place!",
+                "permissions": [
+                    {
+                        "roleName": "- ° Botz !! ♡",
+                        "allow": "1024",
+                        "deny": "2048"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2112"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "- ° Ownership !! ♡",
+            "color": "#00dfff",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 103,
+            "isEveryone": false
+        },
+        {
+            "name": "❄️",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "45220838252678",
+            "mentionable": false,
+            "position": 100,
+            "isEveryone": false
+        },
+        {
+            "name": "☁️",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "9896745508993",
+            "mentionable": false,
+            "position": 96,
+            "isEveryone": false
+        },
+        {
+            "name": ".gg/soupy 🦋",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 95,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Birthday Bish !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 94,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Too Much Fr !! ♡",
+            "color": "#ff7b0e",
+            "hoist": true,
+            "permissions": "256",
+            "mentionable": false,
+            "position": 93,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Ownerz !! ♡",
+            "color": "#080700",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 92,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Slayy Queen !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 91,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Jadu Tone Wali !! ♡",
+            "color": "#ffffff",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 90,
+            "isEveryone": false
+        },
+        {
+            "name": "- 🫂° Home Minister !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 89,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° BhaiJaanz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 88,
+            "isEveryone": false
+        },
+        {
+            "name": ". quarantine",
+            "color": "#b38844",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 87,
+            "isEveryone": false
+        },
+        {
+            "name": "° Black °",
+            "color": "#000203",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 86,
+            "isEveryone": false
+        },
+        {
+            "name": "° Red °",
+            "color": "#ff1515",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 85,
+            "isEveryone": false
+        },
+        {
+            "name": "° Pink °",
+            "color": "#ff0090",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 84,
+            "isEveryone": false
+        },
+        {
+            "name": "° Green °",
+            "color": "#00ff90",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 83,
+            "isEveryone": false
+        },
+        {
+            "name": "° Peach °",
+            "color": "#f59898",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 82,
+            "isEveryone": false
+        },
+        {
+            "name": "° Lemon °",
+            "color": "#f1c40f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 81,
+            "isEveryone": false
+        },
+        {
+            "name": "° Blue °",
+            "color": "#00f3ff",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 80,
+            "isEveryone": false
+        },
+        {
+            "name": "° Orange °",
+            "color": "#e67e22",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 79,
+            "isEveryone": false
+        },
+        {
+            "name": "° Purple °",
+            "color": "#ff00e8",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 78,
+            "isEveryone": false
+        },
+        {
+            "name": "° White °",
+            "color": "#ffffff",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 77,
+            "isEveryone": false
+        },
+        {
+            "name": ". ticket team",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 75,
+            "isEveryone": false
+        },
+        {
+            "name": ". mention door",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "131072",
+            "mentionable": false,
+            "position": 74,
+            "isEveryone": false
+        },
+        {
+            "name": ". silly door",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "268435456",
+            "mentionable": false,
+            "position": 73,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Nawaabzz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "1048576",
+            "mentionable": false,
+            "position": 72,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Founderz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 71,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Hamster !! ♡",
+            "color": "#818ef6",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 70,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° The Beautyz !! ♡",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 69,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Chocolate Boy !! ♡",
+            "color": "#b87333",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 68,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Patakhaz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 67,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Ceo !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 66,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Radhe Radhe !! ♡",
+            "color": "#e91e63",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 65,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Kingz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 64,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Monjulikaz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 63,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Exhausted Itachi !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 62,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Veere !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 60,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Mii-Chans !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 59,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Staffzzz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "137506062337",
+            "mentionable": false,
+            "position": 58,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Supporterz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "8797368090624",
+            "mentionable": false,
+            "position": 57,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Wassup Kidz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 56,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Officialz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "70506183131136",
+            "mentionable": false,
+            "position": 55,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Kalakaarz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 54,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Kanyaz Fr !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 53,
+            "isEveryone": false
+        },
+        {
+            "name": "- °  !! ♡",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 52,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Yaar Kasoote !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 51,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Vipz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 50,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Youtuberz !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 49,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Tagger !! ♡",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": true,
+            "position": 48,
+            "isEveryone": false
+        },
+        {
+            "name": "° She/Her °",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 47,
+            "isEveryone": false
+        },
+        {
+            "name": "° He/Him °",
+            "color": "#000000",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 46,
+            "isEveryone": false
+        },
+        {
+            "name": ". vc door",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "31457280",
+            "mentionable": false,
+            "position": 45,
+            "isEveryone": false
+        },
+        {
+            "name": ". img door",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": ". gif door",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Fam.ily !! ♡",
+            "color": "#00ffff",
+            "hoist": true,
+            "permissions": "35740674543169",
+            "mentionable": false,
+            "position": 42,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° DJ !! ♡",
+            "color": "#fd00c3",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "- ° Botz !! ♡",
+            "color": "#040404",
+            "hoist": true,
+            "permissions": "8804250419057",
+            "mentionable": false,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "18+",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 38,
+            "isEveryone": false
+        },
+        {
+            "name": "18-",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 37,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "247117489999425",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1698733025861,
+    "guildID": "802117286706151424",
+    "id": "1168795766299426816",
+    "iconURL": "https://cdn.discordapp.com/icons/802117286706151424/a_0785fa92e025a63244e4005e37ecfa56.gif",
+    "splashURL": "https://cdn.discordapp.com/splashes/802117286706151424/725b9bf8151d302cfa8f6bc2686c39ec.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/802117286706151424/a_725b9bf8151d302cfa8f6bc2686c39ec.webp"
+}
